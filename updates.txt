@@ -1,0 +1,9 @@
+To initialize git into directory 
+get init
+
+to create any file
+touch 
+echo hello>>hello.txt
+
+to trakc the file or to create stage of the file
+git add .
