@@ -7,3 +7,6 @@ echo hello>>hello.txt
 
 to trakc the file or to create stage of the file
 git add .
+
+To create snapshot or version
+git commit -m "message"
