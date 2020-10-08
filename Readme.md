@@ -1,4 +1,5 @@
-# Day 1 Update
+
+# Day 1 Update by Kushal
 ### To initialize git into directory 
 get init
 
@@ -33,5 +34,8 @@ git branch -d <branchname>
 ### To merge the branch
 first go to the branch you wanna merge to
 git merge <branchname>
+
+# Day 2
+### github
 
 
